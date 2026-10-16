@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Hocine, ingénieur DevOps et Platform Engineering" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architecture-dark.svg">
+  <img alt="Hocine, ingénieur DevOps et platform engineering : carte de sa plateforme interne" src="assets/architecture-light.svg" width="100%">
 </picture>
 
 <p align="center">
