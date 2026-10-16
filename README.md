@@ -47,7 +47,10 @@ Ce qui m'intéresse : des plateformes **simples à utiliser pour les développeu
   <img alt="Vault" src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge">
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=black">
   <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
 </p>
 
