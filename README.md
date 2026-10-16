@@ -13,6 +13,13 @@ Je conçois et j'exploite des chaînes de livraison multi-environnements sur Kub
 
 Ce qui m'intéresse : des plateformes **simples à utiliser pour les développeurs** et **solides à exploiter**, et les agents IA appliqués au DevOps et au SRE.
 
+## En ce moment
+
+- 🔨 **CI auto-hébergée** : runners GitHub Actions éphémères dans Kubernetes (ARC) et service de build partagé (BuildKit rootless), sans aucun pod privilégié
+- 🔁 **Tout sous GitOps** : passer Harbor, Kargo et Vault sous ArgoCD, puis ajouter des garde-fous avec Kyverno
+- 🧭 **Self-service** : des golden paths Backstage pour créer une application, de son dépôt à son déploiement, en un formulaire
+- 📚 **Préparation de la CKA**
+
 ## Projets
 
 <table>
